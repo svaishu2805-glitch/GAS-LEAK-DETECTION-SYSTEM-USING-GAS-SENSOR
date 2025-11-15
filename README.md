@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/910c1a11-f0a2-4860-afd5-9fdbc36b2b66
 # GAS-LEAK-DETECTION-SYSTEM-USING-GAS-SENSOR
 
 ## Aim:
@@ -87,7 +85,7 @@ void loop() {
 }
 
 ## Output:
-Uploading 4.1.mp4…
+https://github.com/user-attachments/assets/83761470-64d3-4086-b428-a8d4a1acaa5c
 
 ## Result:
 The quality of air is measured using Gas Sensor MQ-2 with Arduino UNO Board/ESP-32 using Tinker CAD Verified Successfully
